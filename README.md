@@ -216,18 +216,10 @@ Krushi Portal aims to:
 * Integrated frontend components with backend APIs.
 * Ensured usability, accessibility, and responsive design.
 
-### Team Members
-
 | Member               | Role                             |
 | -------------------- | -------------------------------- |
 | Nagarani Seelamanani | Team Leader & Frontend Developer |
-| Member 2             | Backend Developer                |
-| Member 3             | AI/ML Developer                  |
-| Member 4             | Blockchain Developer             |
-| Member 5             | Database Developer               |
-| Member 6             | Testing & Documentation          |
 
----
 
 ## 🏆 Achievement
 
@@ -250,23 +242,6 @@ python manage.py migrate
 
 python manage.py runserver
 ```
-
----
-
-## 📸 Screenshots
-
-Add your project screenshots here.
-
-```md
-![Landing Page](screenshots/landing-page.png)
-
-![Farmer Dashboard](screenshots/farmer-dashboard.png)
-
-![Buyer Dashboard](screenshots/buyer-dashboard.png)
-
-![Admin Dashboard](screenshots/admin-dashboard.png)
-```
-
 ---
 
 ## 📜 License
