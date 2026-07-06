@@ -149,3 +149,12 @@ EMAIL_HOST_USER = "tolearndsain30days@gmail.com"
 EMAIL_HOST_PASSWORD = "hiwb mvih nwzd zrio"
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
+
+import dj_database_url
+import os
+
+DATABASES = {
+    "default": dj_database_url.parse(
+        os.environ.get("DATABASE_URL")
+    )
+}
